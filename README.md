@@ -7,7 +7,7 @@ READ WIKI TAB PLS
 its right next to projects and pulse
 thx
 
-the drive cad is in the folder labeled DriveBaseKit_squareKit
+the drive cad is in the folder labeled DriveBaseKit_squareframe
 
 The file is AM14U3Square
 
