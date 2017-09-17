@@ -9,8 +9,3 @@ thx
 
 the drive cad is in the folder labeled DriveBaseKit_squareframe
 
-The file is AM14U3Square
-
-Done late at night
-
-middle wheel is placeholder will finish later :(((((((((((
